@@ -10,5 +10,7 @@ public class exam {
 		b = sc.nextInt();
 		
 		System.out.println(a + b);
+		
+		// add content
 	}
 }
